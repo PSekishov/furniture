@@ -105,6 +105,7 @@ a{
     font-size: 12px;
     line-height: 18px;
     letter-spacing: 0.08em;
+    text-align: right;
 }
 
 .header-button-call{
